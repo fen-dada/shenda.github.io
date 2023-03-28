@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# 欢迎来到我的个人网站
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+`如果我要写一本自传，那么我一定会说我是一个可以有奇迹色彩的人`
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+ - 诺贝尔文学奖获得者
+ - 卡文迪许实验室主任
+ - 最年轻的诺贝尔物理学奖和文学将双料获得者
+ - 机械小清华四大美男子之一
